@@ -1,0 +1,11 @@
+Change
+
+revision = int(r.text.split('"client_revision":', 1)[1].split(",", 1)[0])
+
+to
+
+revision = 1
+
+I don't see exact use of this revision and It works just fine for me! You can use any integer you want as the value.
+
+Thanks @dbieber for your perfect solution! There was a problem before for using the user agent. I think You've solved two problem at once!
