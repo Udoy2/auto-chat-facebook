@@ -11,9 +11,9 @@ args = parser.parse_args()
 
 ############################################## variables that needs to change according to users wish #############################################################
 
-username = "humansuper534@gmail.com"  # email or phone no of id
+username = ""  # email or phone no of id
 
-passs = "humansuper534@"  # password of id
+passs = ""  # password of id
 name = "Udoy Rahman"    # id name to send message
 msg = ['hello', 'hi i am working',
        'Its midnight I 😂😂😂😂😂😂😂 was thinking that I will wish you a happy birthday that"s why I made this bot to do it instead of me..:P']  # list of messages to send
